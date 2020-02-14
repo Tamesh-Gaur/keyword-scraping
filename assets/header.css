@@ -1,0 +1,67 @@
+
+
+
+.app-header {
+    height: 60px;
+    line-height: 60px;
+    border-bottom: thin lightgrey solid;
+    color: #21243d;
+    
+    
+}
+
+.app-header .app-header--title {
+    font-size: 35px;
+    padding-left: 40px;
+}
+
+#heatmap {
+    height: 580px;
+ 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    line-height: 90px;
+    border-bottom: thin lightgrey solid;
+    padding-top: 10px;
+ 
+}
+
+body {
+    background-color:#fbf4f9;
+
+
+}
+
+#dd-output-container{
+    padding-left: 40px;
+
+}
+
+#db-input, #csv-input {
+  padding: 40px;
+
+
+}
+
+.in1{
+  padding: 10px;
+  margin: 10px;
+
+}
+
+#my-graph1 {
+  padding: 40px;
+  width: 95%;
+}	
+
+#datatable-upload-container, #datatable-upload-graph{
+  padding: 40px;
+  width: 80%;
+
+}
+#output1{
+  width:80px;
+  
+}
