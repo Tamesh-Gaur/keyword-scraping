@@ -7,3 +7,8 @@ This dash scaping top google result based on searched keyword. it aslo include d
 ## Prerequsites
 1.  dash
 2.  beautifulsoup
+
+
+## Documentation
+1. https://dash.plot.ly/
+2.https://pypi.org/project/beautifulsoup4/
