@@ -15,3 +15,4 @@ This dash scaping top google result based on searched keyword. it aslo include d
 
 
 ## Output
+![](images/output.png)
